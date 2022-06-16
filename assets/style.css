@@ -1,0 +1,23 @@
+    @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+    body {
+        font-family: 'Prompt', sans-serif;
+    }
+    
+    @media screen and (max-width: 440px) {
+        body {
+            font-family: 'Prompt', sans-serif;
+            background: #e6fff3;
+        }
+    }
+    
+    .txt-color-green {
+        color: #3da959;
+    }
+    
+    .txt-color-green-light {
+        color: #145536;
+    }
+    
+    .txt-color-green-dark {
+        color: #1c715c;
+    }
