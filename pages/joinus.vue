@@ -2,7 +2,7 @@
   <div>
     <div class="container w-75 pt-5 pb-5">
       <h2 class="txt-color-green-light"><b>ร่วมงานกับเรา</b></h2>
-      <form @submit.prevent="send_data" class="pt-3 pb-3">
+      <form v-on:submit.prevent="send_data" class="pt-3 pb-3">
         <div class="form-group">
             <label for="name" class="txt-color-green-dark txt-name">
                 ชื่อ - นามสกุล:

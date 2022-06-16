@@ -5,7 +5,7 @@
         <div class="container">
           <div>
             <img src="@/static/img/logo.svg" />
-            <a class="auth txt-green" href="#">หน้าหลัก</a>
+            <a class="auth txt-green" href="/">หน้าหลัก</a>
             <a class="auth txt-green" href="#">เกี่ยวกับเรา</a>
             <a class="auth txt-green" href="#">ผลงานของเรา</a>
             <a class="auth txt-green" href="#">บริการของเรา</a>
@@ -28,7 +28,7 @@
           <ul class="menu__box text-center">
             <img src="@/static/img/logo.svg" class="w-25" />
             <img src="@/static/img/REALTECH.png" class="w-25" />
-            <li><a class="auth txt-green" href="#">หน้าหลัก</a></li>
+            <li><a class="auth txt-green" href="/">หน้าหลัก</a></li>
             <li><a class="auth txt-green" href="#">เกี่ยวกับเรา</a></li>
             <li><a class="auth txt-green" href="#">ผลงานของเรา</a></li>
             <li><a class="auth txt-green" href="#">บริการของเรา</a></li>

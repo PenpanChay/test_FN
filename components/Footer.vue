@@ -15,12 +15,14 @@
             <h1 class="txt-color-green-dark txt-size-footer">
               <b>ABOUT REALTECH</b>
             </h1>
-            <h2 class="txt-color-green txt-size-footer"><b>หน้าหลัก</b></h2>
+            <a href="/"><h2 class="txt-color-green txt-size-footer"><b>หน้าหลัก</b></h2></a>
             <h2 class="txt-color-green txt-size-footer"><b>เกี่ยวกับเรา</b></h2>
             <h2 class="txt-color-green txt-size-footer"><b>ผลงานของเรา</b></h2>
-            <a href="/JoinUs"></a><h2 class="txt-color-green txt-size-footer">
-              <b>ร่วมงานกับเรา</b>
-            </h2>
+            <a href="/JoinUs">
+              <h2 class="txt-color-green txt-size-footer">
+                <b>ร่วมงานกับเรา</b>
+              </h2>
+            </a>
           </div>
           <div class="col pt-3 m-auto d-md-block d-none">
             <h1 class="txt-color-green-dark txt-size-footer">
