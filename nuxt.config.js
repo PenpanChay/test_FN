@@ -1,7 +1,7 @@
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'test_FN',
+        title: 'Realtech - เรอัลเทค',
         htmlAttrs: {
             lang: 'en'
         },
@@ -12,7 +12,7 @@ export default {
             { name: 'format-detection', content: 'telephone=no' }
         ],
         link: [
-            { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+            { rel: 'icon', type: 'image/x-icon', href: '/favico.ico' },
             {
                 rel: 'stylesheet',
                 href: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css',
@@ -54,6 +54,7 @@ export default {
     modules: [
         // https://go.nuxtjs.dev/bootstrap
         'bootstrap-vue/nuxt',
+        'nuxt-sweetalert2'
     ],
 
     // Build Configuration: https://go.nuxtjs.dev/config-build

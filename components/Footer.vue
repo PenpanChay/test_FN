@@ -18,7 +18,7 @@
             <h2 class="txt-color-green txt-size-footer"><b>หน้าหลัก</b></h2>
             <h2 class="txt-color-green txt-size-footer"><b>เกี่ยวกับเรา</b></h2>
             <h2 class="txt-color-green txt-size-footer"><b>ผลงานของเรา</b></h2>
-            <h2 class="txt-color-green txt-size-footer">
+            <a href="/JoinUs"></a><h2 class="txt-color-green txt-size-footer">
               <b>ร่วมงานกับเรา</b>
             </h2>
           </div>
